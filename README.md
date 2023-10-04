@@ -5,14 +5,12 @@ Roll Dice app for Android. Flutter/Dart project. The project was created in Visu
 ## Documentation
 
 Project contains:
-- Random Roll Dice on the screen device by pressing the button "Roll".
 - Random Roll Dice from 1 to 6.
+- Roll Dice on the screen device by pressing the button "Roll Dice".
 - Purple-blue gradient design style.
 
-Screenshots:
+Application:
 
-![Alt text](assets/readme/rolldice1.jpg)
+- Roll Dice =>
 
-![Alt text](assets/readme/rolldice2.jpg)
-
-![Alt text](assets/readme/rolldice3.jpg)
+![Alt text](assets/readme/roll_dice_1.png) ![Alt text](assets/readme/roll_dice_2.png)
