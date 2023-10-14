@@ -1,16 +1,23 @@
 ## About
 
-Roll Dice app for Android. Flutter/Dart project. The project was created in Visual Studio Code. 
+Simple Roll Dice app for Android. 
 
 ## Documentation
 
-Project contains:
+Roll Dice app. The dice are flipped randomly on the screen.
+
+Features:
 - Random Roll Dice from 1 to 6.
 - Roll Dice on the screen device by pressing the button "Roll Dice".
 - Purple-blue gradient design style.
+
+Stack:
+
+- Visual Studio Code, Flutter/Dart. 
+- LinearGradient for gradient, custom widgets. 
 
 Application:
 
 - Roll Dice =>
 
-![Alt text](assets/readme/roll_dice_1.png) ![Alt text](assets/readme/roll_dice_2.png)
+<img src="assets/readme/roll_dice.gif" width="250" height="557,5"/>
