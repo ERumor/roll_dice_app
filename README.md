@@ -20,6 +20,4 @@ Application:
 
 - Roll Dice =>
 
-<img src="assets/readme/roll_dice.gif" width="250" height="557,5"/>
-
-![roll_dice](https://github.com/ERumor/roll_dice_app/assets/57027295/dd05a35b-5e30-4760-90b3-8eea5d2ad1a6)
+<img src="https://github.com/ERumor/roll_dice_app/assets/57027295/3ad6edd9-a3a8-497e-9116-91e1932e14d0" width=30% height=30%/>
