@@ -16,7 +16,7 @@ Stack:
 - Visual Studio Code, Flutter/Dart. 
 - LinearGradient for gradient, custom widgets. 
 
-Application:
+Application show:
 
 - Roll Dice =>
 
