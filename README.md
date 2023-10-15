@@ -1,10 +1,8 @@
 ## About
 
-Simple Roll Dice app for Android. 
+Simple Roll Dice app for Android. The dice are flipped randomly on the screen.
 
 ## Documentation
-
-Roll Dice app. The dice are flipped randomly on the screen.
 
 Features:
 - Random Roll Dice from 1 to 6.
