@@ -19,5 +19,3 @@ Stack:
 Application:
 
 - Roll Dice =>
-
-<img src="assets/readme/roll_dice.gif" width="250" height="557,5"/>
